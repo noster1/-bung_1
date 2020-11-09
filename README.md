@@ -1,2 +1,2 @@
-# -bung_1
+# Uebung_1
 Repository für die erste Übung
